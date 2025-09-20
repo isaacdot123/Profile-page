@@ -1,0 +1,35 @@
+.web {
+    height: 10px;
+}
+
+span {
+    margin-left: 5.2%;
+}
+
+.header {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 100;
+}
+
+.text {
+    margin-left: 50px;
+}
+
+body {
+    background-color: grey;
+}
+ header, a {
+    margin: 5px;
+ }
+
+ 
+ a {
+    color: black;
+ }
+
+ a:hover {
+    color: white;
+    font-size: 18px;
+ }
+
